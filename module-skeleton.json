@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-form-operations-nextjs",
+  "capabilityKey": "planned:cms:form-operations",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-form-operations-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/form-operations.md",
+  "presentationPlan": "projects/cms/nextjs/form-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
